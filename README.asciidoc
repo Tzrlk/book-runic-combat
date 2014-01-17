@@ -1,8 +1,10 @@
+:repo: https://github.com/tzrlk/runic-combat
+
 = Runic Combat
 
 These are the collected training materials for a boffer-sword fighting
 style based on ancient runes and various martial sword combat
 techniques.
 
-See the link:/tzrlk/runic-combat/wiki[Wiki] for the working information.
+See the link:{repo}/wiki[Wiki] for the working information.
 
