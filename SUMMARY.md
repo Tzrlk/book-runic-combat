@@ -1,8 +1,8 @@
 # Summary
 
 * [Getting Started](start/README.md)
-	* [Inspiration](start/inspiration.md)
 	* [Equipment](start/equipment.md)
+	* [Language](start/language.md)
 * [Exercises](work/README.md)
 	* [Rotations](work/rotations.md)
 * [Components](bits/README.md)
