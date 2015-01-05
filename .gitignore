@@ -1,0 +1,7 @@
+
+# Build
+_book/
+*.pdf
+*.mobi
+*.epub
+
